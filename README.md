@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**Romanow/Romanow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙂 I'm Team and Tech lead in VRB company. Programming Java, Kotlin, sometimes make some DevOps things.
 
-Here are some ideas to get you started:
+🖥 Favorite languages and technoligies:
+– Spring Boot
+– Kotlin
+– Ansible
+– Terraform
+– Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I teaching students at the Moscow State University named after Bauman on couse Distributed Systems:
+– Introduction to microservices
+– Serialization and web protocols
+– Security and vulnerabilities in web
+– RESTful
+– Enterprise patterns (Service Discovery, Load Balancing, Cirtuit Breaker, Gateway API, SAGA, Service Mesh)
+– SQL and NoSQL databases (Postrges, Patroni, MongoDB, ElasticSearch)
+– Async processing (Kafka)
+– Integration and stress testing
+– IaaC (Packer, Terraform, Ansible)
+– Virtualization (Docker, Vagrant)
+– Kubernetes
+– Istio
+
+📫 You can write me https://t.me/romanowalex
+
+🤔 I'm looking for intersting projects, mentoring, consulting.
