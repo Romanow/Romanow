@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🙂 I'm Team and Tech lead in VRB company. Programming Java, Kotlin, sometimes make some DevOps things.
+🙂 I'm Software Architect in Innotech company. Programming Java, Kotlin, sometimes make some DevOps things.
 
 
 🖥 Favorite languages and technoligies:
