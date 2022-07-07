@@ -28,6 +28,7 @@
 
 
 📫 You can write me https://t.me/romanowalex
+
 🌐 Personal page https://romanow.github.io/
 
 🤔 I'm looking for intersting projects, mentoring, it consulting.
